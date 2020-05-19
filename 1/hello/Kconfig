@@ -1,0 +1,5 @@
+config HELLO
+    tristate "First Android Driver"
+	default m
+	help
+	This is the first android driver.
